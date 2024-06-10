@@ -1,0 +1,17 @@
+BEGIN 
+NUMBER s1,s2,sum,min,div,mul,mod
+OUTPUT("enter number 1")
+INPUT s1
+OUTPUT("enter number 1")
+INPUT s2
+sum=s1+s2 
+min=s1-s2 
+mul=s1*s2 
+div=s1/s2 
+mod=s1%s2 
+OUTPUT sum
+OUTPUT mul
+OUTPUT div
+OUTPUT min
+OUTPUT mod
+END
