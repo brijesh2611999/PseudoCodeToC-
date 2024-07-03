@@ -31,25 +31,22 @@ To set up the Pseudocode Converter on your local machine, follow these steps:
     ```bash
     git clone https://github.com/yourusername/pseudocode-converter.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd pseudocode-converter
-    ```
-3. Install the dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+
 
 ## Usage
 
 To use the Pseudocode Converter, follow these steps:
 
-1. Run the main script:
+1. Create 2 files:
     ```bash
-    python main.py
+    pseudo.txt
     ```
-2. Enter the pseudocode when prompted.
-3. The tool will output the corresponding C++ code.
+    ```bash
+    output1.cpp
+    ```
+2. Enter the pseudocode in pseudo.txt.
+3. Now Open project_demo.cpp file and run.
+4. After successfully execution of project_demo.cpp. Your pseudocode(pseudo.txt) will convert into corresponding C++ code (output1.cpp).
 
 ## Examples
 
