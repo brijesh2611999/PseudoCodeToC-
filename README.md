@@ -9,8 +9,6 @@ A tool that converts pseudocode provided by the user into the corresponding C++ 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
