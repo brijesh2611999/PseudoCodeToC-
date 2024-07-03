@@ -27,7 +27,7 @@ To set up the Pseudocode Converter on your local machine, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pseudocode-converter.git
+    git clone https://github.com/brijesh2611999/pseudocode-converter.git
     ```
 
 
