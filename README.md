@@ -61,6 +61,7 @@ perimeter=2*3.14*r
 OUTPUT perimeter
 END
 ```
+```code
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
@@ -70,4 +71,4 @@ int main() {
     cout << perimeter << endl;
     return 0;
 }
-
+```
