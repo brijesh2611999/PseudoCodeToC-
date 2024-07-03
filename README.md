@@ -48,7 +48,7 @@ To use the Pseudocode Converter, follow these steps:
 3. Now Open project_demo.cpp file and run.
 4. Your pseudocode(pseudo.txt) will convert into corresponding C++ code (output1.cpp).
 
-## Examples
+## Examples:
 
 ### 1.Find Perimeter Of Circle using Radius
 
@@ -73,6 +73,8 @@ int main() {
     return 0;
 }
 ```
+##
+
 ### 2. Display Numbers from 1 to 100
 
 **Pseudocode:**
@@ -96,7 +98,7 @@ int main() {
     return 0;
 }
 ```
-
+##
 ### 3.Sum of 50 Numbers
 
 **Pseudocode:**
