@@ -50,6 +50,23 @@ To use the Pseudocode Converter, follow these steps:
 
 ## Examples
 
-### Example 1: Calculate Sales Taxes
+### Example: Find Perimeter Of Circle using Radius
 
 **Pseudocode:**
+```plaintext
+BEGIN
+NUMBER r,perimeter 
+INPUT r 
+perimeter=2*3.14*r
+OUTPUT perimeter
+END
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+    int r,perimeter;
+    cin >> r;
+    perimeter = 2 * 3.14 * r;
+    cout << perimeter << endl;
+    return 0;
+}
+
