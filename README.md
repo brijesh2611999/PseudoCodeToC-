@@ -134,7 +134,5 @@ int main() {
 For any questions, feedback, or support regarding the Pseudocode Converter, please feel free to contact us:
 
 - **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub Issues**: You can also open an issue directly on [GitHub](https://github.com/brijesh2611999/pseudocode-converter/issues) for bug reports, feature requests, or any other concerns related to the project.
-- [GitHub Issues](https://github.com/brijesh2611999/pseudocode-converter/issues)
 
 
