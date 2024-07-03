@@ -61,7 +61,8 @@ perimeter=2*3.14*r
 OUTPUT perimeter
 END
 ```
-```code
+**Output:**
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
