@@ -26,6 +26,7 @@ The Pseudocode Converter is designed to help users convert pseudocode into C++ c
 To set up the Pseudocode Converter on your local machine, follow these steps:
 
 1. Clone the repository:
+   
     ```bash
     git clone https://github.com/brijesh2611999/pseudocode-converter.git
     ```
@@ -36,15 +37,16 @@ To set up the Pseudocode Converter on your local machine, follow these steps:
 To use the Pseudocode Converter, follow these steps:
 
 1. Create 2 files:
+   
     ```bash
     pseudo.txt
     ```
     ```bash
     output1.cpp
     ```
-2. Enter the pseudocode in pseudo.txt.
-3. Now Open project_demo.cpp file and run.
-4. Your pseudocode(pseudo.txt) will convert into corresponding C++ code (output1.cpp).
+3. Enter the pseudocode in pseudo.txt.
+4. Now Open project_demo.cpp file and run.
+5. Your pseudocode(pseudo.txt) will convert into corresponding C++ code (output1.cpp).
 
 ## Examples:
 
