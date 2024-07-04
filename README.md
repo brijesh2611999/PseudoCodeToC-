@@ -27,9 +27,9 @@ To set up the Pseudocode Converter on your local machine, follow these steps:
 
 1. Clone the repository:
    
-```bash
+   ```bash
     git clone https://github.com/brijesh2611999/pseudocode-converter.git
-```
+   ```
 
 
 ## Usage
@@ -38,9 +38,9 @@ To use the Pseudocode Converter, follow these steps:
 
 1. Create 2 files:
    
-```bash
+   ```bash
     pseudo.txt
-```
+   ```
 ```bash
     output1.cpp
 ```
